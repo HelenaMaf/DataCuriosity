@@ -18,6 +18,7 @@ Users will have access to coupons, game recommendations, movies, series, ebooks 
 
 ## 3. Curiousities 
 
+Our team made a search based on how human's behavior affected the enviroment, and in consequence, factors that envolves wild animais behavior and climate chances. As we collect those information, we can show that maybe is worth it tô chance some habits when the social isolation is ended . Then, we can havea better relation with our enviroment
 
 
 
